@@ -2,6 +2,6 @@
 
 title: "GitHub-Pages"
 
-date: YYYY-MM-DD
+date: 2022-07-24
 
 ---
